@@ -24,6 +24,7 @@ vendor/
 coverage.txt
 
 # IDEs
-.vscode/
 .zed/
 .bob/
+config.bat
+node_modules
